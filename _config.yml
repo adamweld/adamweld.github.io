@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Adam Weld / Microgoat"
+title                    : "adamweld"
 title_separator          : "-"
 name                     : &name "Adam Weld"
 description              : &description "personal website"
@@ -82,7 +82,7 @@ author:
   avatar           : "profile.png"
   bio              : "Climber, lover, roboticist, and pilot."
   location         : "Seattle, WA / Ithaca, NY"
-  employer         : "Amazon Prime Air"
+  employer         : 
   googlescholar    : 
   email            : "adam.weld@gmail.com"
   uri              :
@@ -95,7 +95,7 @@ author:
   github           : "adamweld"
   google_plus      :
   keybase          :
-  instagram        : "adweld"
+  instagram        : "adamweld"
   lastfm           :
   linkedin         :
   orcid            : "http://orcid.org/yourorcidurl"
