@@ -1,16 +1,14 @@
 # main links links
 main:
-  - title: "Projects"
+  - title: "projects"
     url: /projects/
 
-  - title: "Blog"
+  - title: "blog"
     url: http://adamweld.com/    
         
-  - title: "Resume"
+  - title: "resume"
     url: /files/adamweld-resume-r5.pdf/
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+
