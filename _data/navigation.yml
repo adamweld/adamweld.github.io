@@ -7,8 +7,8 @@ main:
     url: http://adamweld.com/    
         
   - title: "resume"
-    url: /files/adamweld-resume-r5.pdf/
+    url: https://adamweld.github.io/files/adamweld-resume-r5.pdf/
     
-  - title: "CV"
+  - title: "cv"
     url: /cv/
 
