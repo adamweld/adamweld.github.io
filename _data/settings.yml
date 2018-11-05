@@ -1,6 +1,6 @@
 basic_settings:
   site_title: Adam Weld
-  site_tagline: Robotics, Climbing, and Antidisciplinary Engineering
+  site_tagline: Robotics, Climbing, Engineering
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -9,10 +9,12 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Work'
       url: '/'
+    - title: 'Resume'
+      url: '/images/personal/adamweld_resume_r5.pdf'
     - title: 'Blog'
-      url: '/blog/'
+      url: 'http://www.adamweld.com/'
     - title: 'About'
       url: '/about'
     - title: 'Contact'
