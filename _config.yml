@@ -1,11 +1,11 @@
-site: Index Jekyll Theme
+site: Adam Weld
 
 collections:
   pages:
     output: true
     permalink: /:name
   posts:
-    output: true
+    output: false
     permalink: /blog/:slug
   projects:
     output: true

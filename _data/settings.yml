@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: Index
-  site_tagline: A minimal, fixed sidebar grid portfolio Jekyll theme.
+  site_title: Adam Weld
+  site_tagline: Robotics, Climbing, and Antidisciplinary Engineering
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -23,17 +23,17 @@ grid_settings:
   grid_spacing: 20
 
 contact_settings:
-  form_action: 'https://formspree.io/your@email.com'
+  form_action: 'https://formspree.io/adam.weld@gmail.com'
   confirmation_url: '/thanks'
   email_subject: 'Contact form submission'
   send_button_text: 'Send Message'
 
 social_settings:
-  facebook_url: ''
+  facebook_url: 'https://www.facebook.com/adam.weld'
   twitter_url: ''
-  instagram_url: ''
+  instagram_url: 'https://www.instagram.com/adweld/'
   snapchat_url: ''
-  youtube_url: ''
+  youtube_url: 'https://www.youtube.com/channel/UCObek9nsUg1cMlkLQwCqdAw'
   google-plus_url: ''
   vimeo_url: ''
   pinterest_url: ''
@@ -54,7 +54,7 @@ social_settings:
   soundcloud_url: ''
   spotify_url: ''
   bandcamp_url: ''
-  linkedin_url: ''
+  linkedin_url: 'https://www.linkedin.com/in/adamweld'
 
 color_settings:
   background_color: '#ffffff'
