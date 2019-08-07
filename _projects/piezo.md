@@ -1,8 +1,8 @@
 ---
-title: 'Hoverbot'
+title: 'Project Voxa'
 subtitle: ''
 date: 2018-06-30 00:00:00
-description: Hoverbot
+description: Page for RPL
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
