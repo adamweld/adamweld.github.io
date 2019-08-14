@@ -1,6 +1,6 @@
 ---
 title: 'Photography'
-subtitle: 'And the odd adventure'
+subtitle: 'And the Odd Adventure'
 date: 2018-06-30 00:00:00
 description:
 featured_image: '/images/photography/main.jpg'

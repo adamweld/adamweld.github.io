@@ -24,7 +24,7 @@ I got my introduction to robotics with a BASIC stamp microcontroller, a few scro
 
 
 ### ShrimpBot
-<div class="gallery" data-columns="1">
+<div class="gallery" data-columns="3">
     <img src="/images/shrimpbot/sb_main.jpg">
     <img src="/images/shrimpbot/sb_side.jpg">
     <img src="/images/shrimpbot/sb_underside.jpg">
