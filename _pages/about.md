@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: Adam is a passionate and creative Electrical Engineer / Roboticist from Seattle, WA.
-description: About Me page for Adam Weld
+description: About Me
 featured_image: /images/demo/demo-landscape.jpg
 ---
 

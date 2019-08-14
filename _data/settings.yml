@@ -12,7 +12,7 @@ menu_settings:
     - title: 'Work'
       url: '/'
     - title: 'Resume'
-      url: '/images/personal/adamweld_resume_r5.pdf'
+      url: '/resume'
     - title: 'Blog'
       url: 'http://www.adamweld.com/'
     - title: 'About'
