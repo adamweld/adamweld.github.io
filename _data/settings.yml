@@ -11,14 +11,19 @@ menu_settings:
   menu_items:
     - title: 'Work'
       url: '/'
-    - title: 'Resume'
-      url: '/resume'
-    - title: 'Blog'
-      url: 'http://www.adamweld.com/'
+
     - title: 'Photography'
       url: '/photography'
+
+    - title: 'Blog'
+      url: 'http://www.adamweld.com/'
+
+    - title: 'Resume'
+      url: '/resume'
+
     - title: 'About'
       url: '/about'
+
     - title: 'Contact'
       url: '/contact'
 

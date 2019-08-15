@@ -6,7 +6,7 @@ description:
 featured_image: '/images/additive/main.jpg'
 ---
 
-![](/images/additive/main.jpg)
+![](/images/additive/rpl_top.jpg)
 
 ## Additive Manufacturing
 When I first discovered 3D printing back in 2009, I thought them interchangeable with magic. The ability to instantiate any design in physical form, in a few hours - what an incredible capability!

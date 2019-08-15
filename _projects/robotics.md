@@ -32,3 +32,6 @@ I got my introduction to robotics with a BASIC stamp microcontroller, a few scro
 </div>
 
 ### Semantic Mapping
+
+### Quadcopters
+I was introduced to FPV Quads (drones, in common parlance) by my friend Luca back in 2014. I quickly dived deep into the hobby, and in the time since have built many dozens of custom drone designs. I don't have space to describe them all in any detail, but here is an album of the ones that I have pictures of!
