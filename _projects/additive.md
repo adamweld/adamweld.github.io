@@ -3,7 +3,7 @@ title: 'Additive Manufacturing'
 subtitle: 'FDM and SLA Printing'
 date: 2018-06-30 00:00:00
 description:
-featured_image: '/images/additive/main.jpg'
+featured_image: '/images/additive/rpl_top.jpg'
 ---
 
 ![](/images/additive/rpl_top.jpg)
