@@ -5,8 +5,10 @@ description:
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-<!-- ![](/images/resume_r6.pdf) -->
+![](/images/resume_r6.png)
 
-<iframe src="/images/resume_r6.pdf" width="100%" height="1150px">
+<a href="/images/resume_r6.pdf">Resume PDF Link</a>
+
+<!-- <iframe src="/images/resume_r6.pdf" width="100%" height="1150px">
 </iframe>
-
+ -->
