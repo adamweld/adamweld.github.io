@@ -1,6 +1,6 @@
 ---
 title: 'Photography'
-subtitle: 'And the Odd Adventure'
+subtitle: 'And the odd adventure'
 date: 2018-06-30 00:00:00
 description:
 featured_image: '/images/photography/main.jpg'
@@ -11,11 +11,9 @@ featured_image: '/images/photography/main.jpg'
 ## Photography
 I was introduced to the wonderful world of photography by my father.
 
-
 ### Gallery
 <div class="gallery" data-columns="3">
-    <img src="/images/demo/demo-portrait.jpg">
-    <img src="/images/demo/demo-landscape.jpg">
-    <img src="/images/demo/demo-square.jpg">
-    <img src="/images/demo/demo-landscape-2.jpg">
+    <img src="/images/photography/trees.jpg">
+    <img src="/images/photography/utah.jpg">
+    <img src="/images/photography/goat.jpg">
 </div>
