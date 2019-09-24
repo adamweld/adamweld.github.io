@@ -16,11 +16,23 @@ Of course, the truth is much more nuanced. In the decade I've spent working with
 Below you will find a few of my projects and thoughts on Additive Manufacturing.
 
 ### Rapid Prototyping Lab
+A very special lab that will forever be close to my heart, the RPL is a quick-turn fabrication shop in Cornell Engineering's Upson building. I started working at the RPL as a technician shortly after transferring to the school, and then spent two years as the lab's manager. Not only did I gain invaluable insight into how to successfully manage people and keep a chaotic lab space running smoothyl, but I was able to introduce many students to 3D printing, laser cutting, and CNC milling and help them with their projects. 
 
-### Material Selection
+I'm incredibly grateful to have had the opportunity to work in this space and with the wonderful team that made everything work.
+
+![](/images/additive/rpl_tinsae.jpg)
+
+A memorable dislocation failure on the Lulzbot Taz 6
+![](/images/additive/rpl_lulz_fail.jpg)
+
 
 ### Grinder Guard & Tray
+I designed these modification parts for my father's coffee grinder, which out of the box was spectacular at getting grounds all over the place. The 3D printed guard ensures that most of the coffee makes it into the portafilter, while the redesigned tray is larger than the stock tray and snaps reliably into place with long printed flexures. 
 
 ### Book Keeper
+This is a design I use every day to keep my notebook securely closed in my backpack. It also holds a pen or pencil.
+
+Just another reminder that TPU is a great material, this print has lasted over two years and still looks good as new.
 
 ### S Hook Retainer
+Another quick TPU fix-it print, this small device keeps simple S-hooks from falling off of the rack when jostled.

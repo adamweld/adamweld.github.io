@@ -9,10 +9,7 @@ featured_image: '/images/robotics/main.jpg'
 ![](/images/robotics/main.jpg)
 
 ## Robotics
-I got my introduction to robotics with a BASIC stamp microcontroller, a few scrounged servos and photodiodes, and a whole lot of help from the internet, back when I was ten. Ever since then, I've been enchanted by robotics projects large and small. 
-
-...
-
+I got my introduction to robotics with a BASIC stamp microcontroller, a few scrounged servos and photodiodes, and a whole lot of help from the internet, back when I was ten. Ever since then, I've been enchanted by robotics projects large and small. Here are a few of my favorites
 
 ### Hoverbot
 
