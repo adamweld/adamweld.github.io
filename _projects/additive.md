@@ -22,7 +22,8 @@ I'm incredibly grateful to have had the opportunity to work in this space and wi
 
 ![](/images/additive/rpl_tinsae.jpg)
 
-A memorable dislocation failure on the Lulzbot Taz 6
+Here's a fun set of memorable print failures and other fuck-ups. The best way to learn is to try and fail!
+
 ![](/images/additive/rpl_lulz_fail.jpg)
 
 
@@ -34,5 +35,13 @@ This is a design I use every day to keep my notebook securely closed in my backp
 
 Just another reminder that TPU is a great material, this print has lasted over two years and still looks good as new.
 
+![](/images/additive/book_keeper_1.jpg)
+
 ### S Hook Retainer
 Another quick TPU fix-it print, this small device keeps simple S-hooks from falling off of the rack when jostled.
+
+
+### Duplicate Keys
+One of my proudest moments of procrastination: I spent an hour or so measuring each feature of the original key precisely with calipers, created a CAD model, and then printed it out. Yes, these actually worked.
+
+![](/images/additive/keys.jpg)

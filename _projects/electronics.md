@@ -30,32 +30,32 @@ I designed this multirotor flight controller PCB as a tightly integrated project
 * CC2500 2.4GHz Digital Transceiver
 * 5.0V Buck/Boost and 3.3V Buck regulators
 
-<div class="gallery" data-columns="1">
-    <img src="/images/electronics/fc_3d1.jpg">
-    <img src="/images/electronics/fc_3d2jpg">
-    <img src="/images/electronics/fc_3d3.jpg">
-    <img src="/images/electronics/fc_2d1.jpg">
-</div>
+![](/images/electronics/fc_3d1.jpg)
+
+![](/images/electronics/fc_3d3.jpg)
+
+![](/images/electronics/fc_2d1.jpg)
 
 For more information see [Hoverbot](/robotics).
 
 ### Hoverbot Design Verification Boards
 I put together these PCBs to verify my schematic design and component selection for the above flight controller project. The first larger board helped me spot a few serious issues with the schematic and footprint library, such as the WS2812B LEDs having reversed pin polarity in the Altium content vault library. I also had bringup difficulties with the analog video OSD chip, and ended up redesigning for better voltage filtering to that IC.
 
-<div class="gallery" data-columns="1">
-    <img src="/images/electronics/test_paste.jpg">
-    <img src="/images/electronics/test_place.jpg">
-</div>
+![](/images/electronics/test_paste.jpg)
+
+![](/images/electronics/test_place.jpg)
+
 
 ### Power Regulation Daughterboard
 This power regulation board was designed for my project team CUAir at school. It takes as input two LiPo batteries (a 2S autopilot and servo pack and a 6S general paylods pack), and a 28V ground supply. It outputs a number of different voltage rails to power all payloads in our unmanned aerial system. It also has a microcontroller to manually switch inputs and report if voltages are in range.
 
-<div class="gallery" data-columns="1">
-    <img src="/images/electronics/reg_pic.jpg">
-    <img src="/images/electronics/reg_2d.jpg">
-    <img src="/images/electronics/reg_2d_2.jpg">
-    <img src="/images/electronics/reg_3d.jpg">
-</div>
+![](/images/electronics/reg_pic.jpg)
+
+![](/images/electronics/reg_2d.jpg)
+
+![](/images/electronics/reg_2d_2.jpg)
+
+![](/images/electronics/reg_3d.jpg)
 
 My mentor on the team challenged me to try to use only two copper layers for the design, and I was unable to refuse.
 
@@ -73,7 +73,6 @@ My mentor on the team challenged me to try to use only two copper layers for the
 ### Secret Bezos Board
 I'm only able to share this work using the principle of safety by obscurity.
 
-<div class="gallery" data-columns="1">
-    <img src="/images/electronics/gdb_3d.jpg">
-    <img src="/images/electronics/gdb_2d.jpg">
-</div>
+![](/images/electronics/gdb_3d.jpg)
+
+![](/images/electronics/gdb_2d.jpg)
