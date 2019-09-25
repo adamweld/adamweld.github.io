@@ -16,7 +16,7 @@ menu_settings:
       url: '/photography'
 
     - title: 'Blog'
-      url: 'http://www.adamweld.com/'
+      url: 'http://adweld.blogspot.com/'
 
     - title: 'Resume'
       url: '/resume'
