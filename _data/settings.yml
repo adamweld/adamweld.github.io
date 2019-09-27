@@ -33,6 +33,11 @@ menu_settings:
     - title: 'Electronics'
       url: /electronics/
 
+    - title: 'Mechatronics'
+      url: /mechatronics/
+
+    - title: 'Additive Manufacturing'
+      url: /additive/
 
 grid_settings:
   overlay_opacity: 0.8

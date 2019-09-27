@@ -9,7 +9,8 @@ featured_image: /images/social.jpg
 
 	<div class="content-wrap portfolio-wrap">
 
-		{% for project in site.category.electronics reversed %}
+		{% for project in site.projects reversed %}
+		{% if project.category == 'mechatronics' %}
 
 		<div class="portfolio-item">
 
@@ -30,6 +31,7 @@ featured_image: /images/social.jpg
 
 		</div>
 
+		{% endif %}
 		{% endfor %}
 
 	</div>

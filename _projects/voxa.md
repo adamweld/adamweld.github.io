@@ -1,22 +1,13 @@
 ---
-title: 'Mechatronics'
-subtitle: 'Actuators and Controls'
+title: 'Piezoelectric EM Microscope stage'
+subtitle: '4DOF Piezoelectric positioning stage for electron microscope'
 date: 2018-06-30 00:00:00
 description:
-featured_image: '/images/mechatronics/main.jpg'
+featured_image: '/images/mechatronics/voxa_office.jpg'
 category: mechatronics
 ---
 
-![](/images/mechatronics/main.jpg)
-
-## Mechatronics
-What's cooler that the collision of all of my favorite fields: electrical and mechanical design, sensors and actuators, and real time controls? 
-
-Just about nothing, in my opinion.
-
-
-
-### Piezoelectric EM Microscope stage
+## Piezoelectric EM Microscope stage
 One of my first hardware design engineering projects, but one that I am still very proud of. Working at desktop electron microscope company [Project Voxa](http://voxa.co/), I was tasked with working on a four-axis stage to move the sample around under the EM beam.
 
 ![](/images/mechatronics/voxa_office.jpg)

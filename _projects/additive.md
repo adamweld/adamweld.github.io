@@ -16,17 +16,6 @@ Of course, the truth is much more nuanced. In the decade I've spent working with
 
 Below you will find a few of my projects and thoughts on Additive Manufacturing.
 
-### Rapid Prototyping Lab
-A very special lab that will forever be close to my heart, the RPL is a quick-turn fabrication shop in Cornell Engineering's Upson building. I started working at the RPL as a technician shortly after transferring to the school, and then spent two years as the lab's manager. Not only did I gain invaluable insight into how to successfully manage people and keep a chaotic lab space running smoothyl, but I was able to introduce many students to 3D printing, laser cutting, and CNC milling and help them with their projects. 
-
-I'm incredibly grateful to have had the opportunity to work in this space and with the wonderful team that made everything work.
-
-![](/images/additive/rpl_tinsae.jpg)
-
-Here's a fun set of memorable print failures and other fuck-ups. The best way to learn is to try and fail!
-
-![](/images/additive/rpl_lulz_fail.jpg)
-
 
 ### Grinder Guard & Tray
 I designed these modification parts for my father's coffee grinder, which out of the box was spectacular at getting grounds all over the place. The 3D printed guard ensures that most of the coffee makes it into the portafilter, while the redesigned tray is larger than the stock tray and snaps reliably into place with long printed flexures. 
