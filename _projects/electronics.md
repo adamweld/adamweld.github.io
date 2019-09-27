@@ -4,6 +4,7 @@ subtitle: 'PCB Design and Layout'
 date: 2018-06-30 00:00:00
 description:
 featured_image: '/images/electronics/main.jpg'
+categories: [electronics]
 ---
 
 ![](/images/electronics/main.jpg)

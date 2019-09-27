@@ -4,6 +4,7 @@ subtitle: 'Actuators and Controls'
 date: 2018-06-30 00:00:00
 description:
 featured_image: '/images/mechatronics/main.jpg'
+categories: [mechatronics]
 ---
 
 ![](/images/mechatronics/main.jpg)
