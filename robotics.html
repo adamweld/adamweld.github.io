@@ -11,7 +11,7 @@ featured_image: /images/social.jpg
 
 		{% for category in site.categories %}
 		{% if category[0] == 'robotics' %}
-		{% for post in category[1] %}
+		{% for project in category[1] %}
 		<div class="portfolio-item">
 
 			<a class="portfolio-item__link" href="{{ project.url }}">
