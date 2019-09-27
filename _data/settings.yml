@@ -12,6 +12,18 @@ menu_settings:
     - title: 'Work'
       url: '/'
 
+    - title: 'Robotics'
+      url: /robotics/
+
+    - title: 'Electronics'
+      url: /electronics/
+
+    - title: 'Mechatronics'
+      url: /mechatronics/
+
+    - title: 'Additive Manufacturing'
+      url: /additive/
+
     - title: 'Photography'
       url: '/photography'
 
@@ -26,18 +38,6 @@ menu_settings:
 
     - title: 'Contact'
       url: '/contact'
-
-    - title: 'Robotics'
-      url: /robotics/
-
-    - title: 'Electronics'
-      url: /electronics/
-
-    - title: 'Mechatronics'
-      url: /mechatronics/
-
-    - title: 'Additive Manufacturing'
-      url: /additive/
 
 grid_settings:
   overlay_opacity: 0.8
