@@ -4,7 +4,7 @@ subtitle: 'Designs and System Integration'
 date: 2018-06-30 00:00:00
 description:
 featured_image: '/images/robotics/main.jpg'
-categories: [robotics]
+categories: 'robotics'
 ---
 
 ![](/images/robotics/main.jpg)
