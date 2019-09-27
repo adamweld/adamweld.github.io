@@ -28,7 +28,7 @@ menu_settings:
       url: '/contact'
 
     - title: 'Robotics'
-      url: /robotics.html
+      url: /robotics/
 
 grid_settings:
   overlay_opacity: 0.8
