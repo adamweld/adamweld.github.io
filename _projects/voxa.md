@@ -1,6 +1,6 @@
 ---
-title: 'Piezoelectric EM Microscope stage'
-subtitle: '4DOF Piezoelectric positioning stage for electron microscope'
+title: 'Piezoelectric EM stage'
+subtitle: '4DOF Piezoelectric Positioning Stage for Electron Microscope'
 date: 2018-06-30 00:00:00
 description:
 featured_image: '/images/mechatronics/voxa_office.jpg'
