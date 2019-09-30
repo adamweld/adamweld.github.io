@@ -3,7 +3,7 @@ title: 'Hoverbot Flight Controller PCBA'
 subtitle: 'A tiny, powerful quadcopter flight controller with LIDAR'
 date: 2018-06-30 00:00:00
 description:
-featured_image: '/images/electronics/fc_3d1.jpg'
+featured_image: '/images/electronics/fc_3d1.png'
 category: electronics
 ---
 
@@ -19,10 +19,10 @@ I designed this multirotor flight controller PCB as a tightly integrated project
 * CC2500 2.4GHz Digital Transceiver
 * 5.0V Buck/Boost and 3.3V Buck regulators
 
-![](/images/electronics/fc_3d1.jpg)
+![](/images/electronics/fc_3d1.png)
 
-![](/images/electronics/fc_3d3.jpg)
+![](/images/electronics/fc_3d3.png)
 
-![](/images/electronics/fc_2d1.jpg)
+![](/images/electronics/fc_2d1.png)
 
 For more information see [Hoverbot](/robotics).
