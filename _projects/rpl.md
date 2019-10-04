@@ -18,3 +18,13 @@ I'm incredibly grateful to have had the opportunity to work in this space and wi
 Here's a fun set of memorable print failures and other fuck-ups. The best way to learn is to try and fail!
 
 ![](/images/additive/rpl_lulz_fail.jpg)
+
+Cause of death: overextrusion lead to nozzle snagging on print, causing dislocation.
+
+![](/images/additive/markforged_fail.jpg)
+
+Cause of death: insufficient application of glue stick for first layer adhesion.
+
+![](/images/additive/fuck.jpg)
+
+Cause of death: improper cool-down time between fast layers.

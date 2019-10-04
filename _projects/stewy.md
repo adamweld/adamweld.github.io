@@ -1,6 +1,6 @@
 ---
 title: 'Stewy'
-subtitle: 'A 3DOF Stewart Platform'
+subtitle: '3DOF Stewart Platform'
 date: 2018-06-30 00:00:00
 description: 'Stewy: A 3DOF Stewart Platform'
 featured_image: '/images/mechatronics/stewy.jpg'
