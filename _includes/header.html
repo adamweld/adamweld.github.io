@@ -12,7 +12,8 @@
 		</a>
 		{% endif %}
 
-		<h1 class="header__tagline">{% if page.url == "/" %}{{ site.data.settings.basic_settings.site_tagline }} {% else %} {{ page.tagline }} {% endif %}</h1>
+		<!-- <h1 class="header__tagline">{% if page.url == "/" %}{{ site.data.settings.basic_settings.site_tagline }} {% else %} {{ page.tagline }} {% endif %}</h1> -->
+		<h1 class="header__tagline">{{ site.data.settings.basic_settings.site_tagline }}</h1>
 
 		<div class="menu">
 			<div class="menu__toggle js-menu-toggle">

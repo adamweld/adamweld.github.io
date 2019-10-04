@@ -18,3 +18,9 @@ Overall, though, the majority of the design worked well without too much fuss.
 ![](/images/electronics/test_paste.jpg)
 
 ![](/images/electronics/test_place.jpg)
+
+Here is another verification pcb, to confirm fixes to the OSD design:
+
+![](/images/electronics/osd_test.jpg)
+
+![](/images/electronics/osd_test_2.jpg)
