@@ -1,10 +1,10 @@
 ---
-title: 'Power Regulation Daughterboard'
+title: 'Power Regulation Board'
 subtitle: 'Multiple voltage, high current output power regulation daughterboard for UAS'
 date: 2018-06-30 00:00:00
-description:
+description: 'Power Regulation Board: Multiple voltage, high current output power regulation daughterboard for UAS'
 featured_image: '/images/electronics/reg_pic.jpg'
-category: electronics
+category: 'electronics'
 ---
 
 ## Power Regulation Daughterboard

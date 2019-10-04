@@ -1,5 +1,5 @@
 ---
-title: 'Hoverbot Flight Controller PCBA'
+title: 'Hoverbot Flight Controller'
 subtitle: 'A tiny, powerful quadcopter flight controller with LIDAR'
 date: 2018-06-30 00:00:00
 description:
