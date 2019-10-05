@@ -1,7 +1,7 @@
 ---
 title: 'One-Off Multirotors'
 subtitle: 'Collection of Specialized and Experimental Multirotors'
-date: 2010-06-30 00:00:00
+date: 2028-06-30 00:00:00
 description: 'One-Off Multirotors: Collection of Specialized and Experimental Multirotors'
 featured_image: '/images/multirotors/gopro.jpg'
 category: 'robotics'
