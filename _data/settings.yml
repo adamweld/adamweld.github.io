@@ -9,7 +9,20 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Work'
+    - title: 'About'
+      url: '/about'
+
+    - title: 'Blog'
+      url: 'http://adweld.blogspot.com/'
+
+    - title: 'Resume'
+      url: '/resume'
+
+    - title: 'Contact'
+      url: '/contact'
+
+  menu_categories:
+    - title: 'All Work'
       url: '/'
 
     - title: 'Robotics'
@@ -26,18 +39,6 @@ menu_settings:
 
     - title: 'Photography'
       url: '/photography'
-
-    - title: 'Blog'
-      url: 'http://adweld.blogspot.com/'
-
-    - title: 'Resume'
-      url: '/resume'
-
-    - title: 'About'
-      url: '/about'
-
-    - title: 'Contact'
-      url: '/contact'
 
 grid_settings:
   overlay_opacity: 0.8

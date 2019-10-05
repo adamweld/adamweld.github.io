@@ -12,7 +12,6 @@
 		</a>
 		{% endif %}
 
-		<!-- attempt at changing taglines -->
 		<!-- <h1 class="header__tagline">{% if page.url == "/" %}{{ site.data.settings.basic_settings.site_tagline }} {% else %} {{ page.tagline }} {% endif %}</h1> -->
 		<h1 class="header__tagline">{{ site.data.settings.basic_settings.site_tagline }}</h1>
 
@@ -33,23 +32,13 @@
 
 		<div class="projects-menu">
 			<ul class="menu__list">
-				{% for item in site.data.settings.menu_settings.menu_categories %}
-				<li class="menu__list__item">
-					<a href="{{ item.url }}" class="menu__list__item__link">{{ item.title }}</a>
-				</li>
-				{% endfor %}
-			</ul>
-		</div>
-
-		<!-- <div class="projects-menu">
-			<ul class="menu__list">
 				{% for project in site.projects reversed %}
 				<li class="menu__list__item">
 					<a href="{{ project.url }}" class="menu__list__item__link">{{ project.title }}</a>
 				</li>
 				{% endfor %}
 			</ul>
-		</div> -->
+		</div>
 
 		<div class="header__lower">
 
