@@ -3,7 +3,7 @@ title: 'One-Off Multirotors'
 subtitle: 'Collection of Specialized and Experimental Multirotors'
 date: 2018-06-30 00:00:00
 description: 'One-Off Multirotors: Collection of Specialized and Experimental Multirotors'
-featured_image: '/images/hoverbot/nano.jpg'
+featured_image: '/images/multirotors/gopro.jpg'
 category: 'robotics'
 ---
 
