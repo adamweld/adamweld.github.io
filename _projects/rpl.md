@@ -1,7 +1,7 @@
 ---
 title: 'Cornell RPL'
 subtitle: 'Rapid Prototyping Lab'
-date: 2011-06-30 00:00:00
+date: 2025-06-30 00:00:00
 description: 'Cornell Rapid Prototyping Lab'
 featured_image: '/images/additive/rpl_top.jpg'
 category: 'additive'

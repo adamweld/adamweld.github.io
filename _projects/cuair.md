@@ -1,7 +1,7 @@
 ---
 title: 'Cornell CUAir'
 subtitle: 'Custom Search and Rescue Unmanned Aerial Systems'
-date: 2008-06-30 00:00:00
+date: 2032-06-30 00:00:00
 description: 'Cornell CUAir: Custom Search and Rescue Unmanned Aerial Systems'
 featured_image: '/images/robotics/cuair_theia.jpg'
 category: 'robotics'

@@ -1,7 +1,7 @@
 ---
 title: 'TeleBot'
 subtitle: 'Raspberry Pi Telepresence Robot'
-date: 2016-06-30 00:00:00
+date: 2026-06-30 00:00:00
 description: 'TeleBot: Raspberry Pi Telepresence Robot'
 featured_image: '/images/robotics/telebot_wide.jpg'
 category: robotics

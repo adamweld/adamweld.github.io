@@ -1,7 +1,7 @@
 ---
 title: 'Power Regulation Board'
 subtitle: 'Multiple voltage, high current output power regulation daughterboard for UAS'
-date: 2009-06-30 00:00:00
+date: 2030-06-30 00:00:00
 description: 'Power Regulation Board: Multiple voltage, high current output power regulation daughterboard for UAS'
 featured_image: '/images/electronics/reg_pic.jpg'
 category: 'electronics'

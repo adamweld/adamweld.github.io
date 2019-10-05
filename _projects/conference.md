@@ -1,7 +1,7 @@
 ---
 title: 'Conference Telepresence Robot'
 subtitle: 'Telepresence Robot for Local and Remote conferences'
-date: 2013-06-30 00:00:00
+date: 2022-06-30 00:00:00
 description:
 featured_image: '/images/mechatronics/conference_wide.jpg'
 category: mechatronics

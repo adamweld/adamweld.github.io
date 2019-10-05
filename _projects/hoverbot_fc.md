@@ -1,7 +1,7 @@
 ---
 title: 'Hoverbot Flight Controller'
 subtitle: 'A tiny, powerful quadcopter flight controller with LIDAR'
-date: 2018-06-30 00:00:00
+date: 2020-06-30 00:00:00
 description: 'Hoverbot Flight Controller: a tiny, powerful quadcopter flight controller with LIDAR'
 featured_image: '/images/electronics/fc_3d1.png'
 category: 'electronics'
