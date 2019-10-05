@@ -1,7 +1,7 @@
 ---
 title: 'ShimpBot'
 subtitle: 'Maze Solving Robot'
-date: 2018-06-30 00:00:00
+date: 2017-06-30 00:00:00
 description: 'ShrimpBot: A Maze Solving Robot'
 featured_image: '/images/robotics/sb_main.jpg'
 category: 'robotics'
