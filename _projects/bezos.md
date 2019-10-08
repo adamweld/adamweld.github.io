@@ -5,6 +5,7 @@ date: 2018-06-30 00:00:00
 description: 'Prime Air PCBA: High density, six-layer PCBA for Amazon Prime Air'
 featured_image: '/images/electronics/gdb_2d_full.jpg'
 category: 'electronics'
+published: false
 ---
 
 ## Prime Air PCBA
