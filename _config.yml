@@ -1,11 +1,14 @@
 site: Adam Weld
 
+url: https://adamweld.com
+baseurl: 
+
 collections:
   pages:
     output: true
     permalink: /:name
   posts:
-    output: false
+    output: true
     permalink: /blog/:slug
   projects:
     output: true

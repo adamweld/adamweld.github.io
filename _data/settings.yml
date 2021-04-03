@@ -26,16 +26,16 @@ menu_settings:
       url: '/'
 
     - title: 'Robotics'
-      url: /robotics/
+      url: /index_robotics/
 
     - title: 'Electronics'
-      url: /electronics/
+      url: /index_electronics/
 
     - title: 'Mechatronics'
-      url: /mechatronics/
+      url: /index_mechatronics/
 
     - title: 'Additive Manufacturing'
-      url: /additive/
+      url: /index_additive/
 
     - title: 'Photography'
       url: '/photography'
@@ -45,7 +45,7 @@ grid_settings:
   grid_spacing: 20
 
 contact_settings:
-  form_action: 'https://formspree.io/adam.weld@gmail.com'
+  form_action: 'https://formspree.io/f/myylyzdo'
   confirmation_url: '/thanks'
   email_subject: 'Contact form submission'
   send_button_text: 'Send Message'

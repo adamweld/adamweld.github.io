@@ -1,7 +1,8 @@
 ---
 layout: default
-title: A minimal, fixed sidebar grid portfolio Jekyll theme.
-description: A minimal, fixed sidebar grid portfolio Jekyll theme.
+title: Electronics
+description: Home
+tagline: 'Electronics Madness'
 featured_image: /images/social.jpg
 ---
 
@@ -10,6 +11,7 @@ featured_image: /images/social.jpg
 	<div class="content-wrap portfolio-wrap">
 
 		{% for project in site.projects reversed %}
+		{% if project.category == 'electronics' %}
 
 		<div class="portfolio-item">
 
@@ -30,6 +32,7 @@ featured_image: /images/social.jpg
 
 		</div>
 
+		{% endif %}
 		{% endfor %}
 
 	</div>

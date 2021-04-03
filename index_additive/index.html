@@ -1,15 +1,18 @@
 ---
 layout: default
-title: A minimal, fixed sidebar grid portfolio Jekyll theme.
-description: A minimal, fixed sidebar grid portfolio Jekyll theme.
+title: Additive
+description: Home
+tagline: 'Additive Manufacturing Madness'
 featured_image: /images/social.jpg
 ---
+
 
 <section class="portfolio">
 
 	<div class="content-wrap portfolio-wrap">
 
 		{% for project in site.projects reversed %}
+		{% if project.category == 'additive' %}
 
 		<div class="portfolio-item">
 
@@ -30,6 +33,7 @@ featured_image: /images/social.jpg
 
 		</div>
 
+		{% endif %}
 		{% endfor %}
 
 	</div>
