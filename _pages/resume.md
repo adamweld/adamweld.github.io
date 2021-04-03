@@ -2,7 +2,7 @@
 title: Resume
 subtitle: Feel free to reach out if you think I'd fit in at your place of work!
 description: 
-featured_image: /images/demo/demo-landscape.jpg
+featured_image: /images/social.jpg
 ---
 
 [![resume should live here](/images/resume_r7.png "click for pdf version")](/images/resume_r7.pdf){:target="_blank"}
