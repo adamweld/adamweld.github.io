@@ -9,7 +9,6 @@ featured_image: '/images/photography/main.jpg'
 ![](/images/photography/main.jpg)
 
 ## Photography
-I was introduced to the wonderful world of photography by my father.
 
 ### Gallery
 <div class="gallery" data-columns="3">
