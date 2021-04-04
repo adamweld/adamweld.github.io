@@ -26,16 +26,16 @@ menu_settings:
       url: '/'
 
     - title: 'Robotics'
-      url: /index_robotics/
+      url: /robotics/
 
     - title: 'Electronics'
-      url: /index_electronics/
+      url: /electronics/
 
     - title: 'Mechatronics'
-      url: /index_mechatronics/
+      url: /mechatronics/
 
     - title: 'Additive Manufacturing'
-      url: /index_additive/
+      url: /additive/
 
     - title: 'Photography'
       url: '/photography'

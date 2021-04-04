@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Mechatronics
-permalink: /mechatronics/
+title: Robotics
 description: Home
-tagline: 'Mechatronics Madness'
+tagline: 'Robotics Madness'
 featured_image: /images/social.jpg
 ---
 
@@ -13,7 +12,7 @@ featured_image: /images/social.jpg
 	<div class="content-wrap portfolio-wrap">
 
 		{% for project in site.projects reversed %}
-		{% if project.category == 'mechatronics' %}
+		{% if project.published == 'false' %}
 
 		<div class="portfolio-item">
 
@@ -36,6 +35,7 @@ featured_image: /images/social.jpg
 
 		{% endif %}
 		{% endfor %}
+
 	</div>
 
 </section>
