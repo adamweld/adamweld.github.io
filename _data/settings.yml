@@ -2,7 +2,7 @@ basic_settings:
   site_title: Adam Weld
   site_tagline: Multidisciplinary Madness
   favicon_image: /images/favicon.png
-  version: v2.3
+  version: v2.4
 
 header_settings:
   logo_image: 
