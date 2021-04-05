@@ -34,19 +34,6 @@
 				</ul>
 			</div>
 		</div>
-		<!-- nope 
-		<div class="categories-menu">
-			<div class="menu__wrap">
-				<ul class="menu__list">
-					{% for category in site.data.settings.menu_settings.menu_categories %}
-						<li class="menu__list__item">
-							<a href="{{ category.url | relative_url }}" class="menu__list__item__link">{{ category.title }}</a>
-						</li>
-					{% endfor %}
-				</ul>
-			</div>
-		</div>
-		-->
 
 		<div class="header__lower">
 
@@ -54,6 +41,7 @@
 
 			<div class="footer__copyright">
 				<span>© {{ 'now' | date: "%Y" }} {{ site.data.settings.basic_settings.site_title }}</span>
+				<a href="https://github.com/adamweld/adamweld.github.io" target="_blank">{{ site.data.settings.basic_settings.version }}</a>
 			</div>
 
 		</div>

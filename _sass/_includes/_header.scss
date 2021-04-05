@@ -186,7 +186,10 @@
 	right: 0;
 	bottom: 0;
 	left: 0;
-	background: rgba($overlay-background-color,0.95);
+	background: rgba($overlay-background-color, $overlay-background-opacity);
+	backdrop-filter: blur(8px); // This be the blur
+  	height: 100vh;
+	width: 100%;
 	overflow: auto;
 
 	visibility: hidden;
@@ -271,37 +274,6 @@
 		font-size: 15px;
 	}
 }
-
-
-
-// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Projects menu
-
-.projects-menu {
-	@include mq(tabletl) {
-		margin-top: 20px;
-	}
-
-	@include mq(laptop) {
-		margin-top: 30px;
-	}
-}
-
-// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Categories menu
-
-.categories-menu {
-	display: none;
-	
-	@include mq(tabletl) {
-		display: block;
-		margin-top: 20px;
-	}
-
-	@include mq(laptop) {
-		margin-top: 30px;
-	}
-}
-
-
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Lower
 
