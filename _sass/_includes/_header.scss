@@ -277,6 +277,18 @@
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Projects menu
 
 .projects-menu {
+	@include mq(tabletl) {
+		margin-top: 20px;
+	}
+
+	@include mq(laptop) {
+		margin-top: 30px;
+	}
+}
+
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Categories menu
+
+.categories-menu {
 	display: none;
 	
 	@include mq(tabletl) {

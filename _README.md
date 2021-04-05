@@ -17,6 +17,9 @@ To run the theme locally, navigate to the theme directory in your terminal and r
 If you're not familiar with how Jekyll works, check out [jekyllrb.com](https://jekyllrb.com/) for all the details, 
 or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/), and [creating pages](https://jekyllrb.com/docs/pages/).
 
+locally test with:
+$ bundle exec jekyll serve
+
 ---
 
 ## Customizing the theme
