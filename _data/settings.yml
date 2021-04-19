@@ -90,6 +90,7 @@ color_settings:
   # overlay_background_color: '#0C5DF2'
   overlay_background_color: '#ffffff'
   overlay_background_opacity: '.80'
+  overlay_background_blur_pixels: '8px'
   # overlay_text_color: '#ffffff'
   overlay_text_color: '#2A2F36'
   # overlay_accent_color: '#2A2F36'
