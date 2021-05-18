@@ -1,6 +1,6 @@
 ---
 title: 'Hoverbot Quadcopters'
-subtitle: 'Created a new stardard for ultralight fpv racing drones'
+subtitle: 'Created a new standard for ultralight fpv racing drones'
 date: 2018-06-30 00:00:00
 description: 'Hoverbot Quadcopters: a new stardard for ultralight fpv racing drones'
 featured_image: '/images/hoverbot/nano.jpg'
