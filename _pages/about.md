@@ -9,7 +9,7 @@ featured_image: /images/personal/buckner_horseshoe-19.jpg
 
 ## A few Bits About Me
 
-Hi! I'm an engineer, hobbyist, climber, photographer etc. based out of Seattle. When I was little, I wanted to be an inventor, and as I grew up it seemed that engineering was the closest proxy for that carreer that I could find. So here we are!
+Hi! I'm an engineer, hobbyist, climber, photographer etc. based out of Seattle. When I was little, I wanted to be an inventor, and as I grew up it seemed that engineering was the closest proxy for that career that I could find. So here we are!
 
 I've set this site up to document my personal projects and interests. It's a constant work in progress, so please excuse any typos or brief descriptions! 
 
