@@ -1,3 +1,5 @@
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
 <div class="contact-form">
 
 	<form method="post" action="{{ site.data.settings.contact_settings.form_action }}" id="contact-form">
@@ -22,7 +24,6 @@
 		<input type="text" name="_gotcha" style="display: none;" class="contact-form__gotcha" val="">
 
 		<div class="contact-form__item">
-			<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 			<div class="g-recaptcha" data-sitekey="{{ site.data.settings.contact_settings.recaptcha_key }}" ></div>
 		</div>
 
