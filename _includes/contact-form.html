@@ -22,11 +22,11 @@
 		<input type="text" name="_gotcha" style="display: none;" class="contact-form__gotcha" val="">
 
 		<div class="contact-form__item">
+			<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 			<div class="g-recaptcha" data-sitekey="{{ site.data.settings.contact_settings.recaptcha_key }}" ></div>
 		</div>
 
 		<div class="contact-form__item">
-			<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 			<input type="submit" value="{{ site.data.settings.contact_settings.send_button_text }}" class="button button--large">
 		</div>
 
